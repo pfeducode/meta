@@ -16,3 +16,18 @@
 
 ![img](https://github.com/microsoft/Deep3DFaceReconstruction/raw/master/images/example.gif)**[Deep3DFaceReconstruction 的pytorch版本](https://github.com/sicxu/Deep3DFaceRecon_pytorch)**
 
+
+
+代码
+
+uv贴图
+
+https://github.com/js-duan/texture_map
+
+
+
+**根据相机坐标和世界坐标求相机位姿**
+
+https://blog.csdn.net/Kalenee/article/details/99207102
+
+![image-20220927164908539](README.assets/image-20220927164908539.png)
