@@ -31,6 +31,14 @@ https://github.com/snap-research/articulated-animation
 
 <img src="README.assets/Snipaste_2022-10-09_19-02-06.png" alt="image" style="zoom:50%;" />
 
+
+
+### 4. [VIBE：人体姿势和形状估计的视频推理 [CVPR-2020]](https://github.com/mkocabas/VIBE)
+
+![header_2](README.assets/header_2.gif)
+
+
+
 ### uv贴图代码
 
 https://github.com/js-duan/texture_map
