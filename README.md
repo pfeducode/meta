@@ -18,9 +18,13 @@
 
 **[Deep3DFaceReconstruction 的pytorch版本](https://github.com/sicxu/Deep3DFaceRecon_pytorch)**
 
+==============================================
+
+https://github.com/sicxu/Deep3DFaceRecon_pytorch/issues/12
+
 **[别人修改的能够使用pytorch3d训练的版本](https://github.com/xingmimfl/Deep3DFaceRecon_pytorch)**
 
-
+=============================================
 
 ### 3. 人体动画合成Motion Representations for Articulated Animation
 https://github.com/snap-research/articulated-animation
