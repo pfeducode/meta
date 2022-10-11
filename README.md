@@ -18,13 +18,16 @@
 
 
 
-代码
+### 人体动画合成Motion Representations for Articulated Animation
+https://github.com/snap-research/articulated-animation
 
-uv贴图
+<img src="README.assets/Snipaste_2022-10-09_19-02-06.png" alt="image" style="zoom:50%;" />
+
+### uv贴图代码
 
 https://github.com/js-duan/texture_map
 
-
+<img src="README.assets/weight-mean.png" alt="qingfeng" style="zoom:50%;" />
 
 **根据相机坐标和世界坐标求相机位姿**
 
