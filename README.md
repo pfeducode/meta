@@ -33,9 +33,15 @@ https://github.com/snap-research/articulated-animation
 
 
 
-### 4. [VIBE：人体姿势和形状估计的视频推理 [CVPR-2020]](https://github.com/mkocabas/VIBE)
+### 1. [VIBE：人体姿势和形状估计的视频推理 [CVPR-2020]](https://github.com/mkocabas/VIBE)
 
 ![header_2](README.assets/header_2.gif)
+
+
+
+## 2.[SCARF：单目视频中人体和服装的捕获和动画](https://github.com/YadiraF/SCARF)
+
+![Teaser](README.assets/Teaser.png)
 
 
 
