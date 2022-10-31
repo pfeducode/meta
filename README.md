@@ -16,7 +16,7 @@
 
 <img src="https://github.com/microsoft/Deep3DFaceReconstruction/raw/master/images/example.gif" alt="img" style="zoom:50%;" />
 
-**[Deep3DFaceReconstruction 的pytorch版本](https://github.com/sicxu/Deep3DFaceRecon_pytorch)**
+**[Deep3DFaceReconstruction 的官网pytorch版本](https://github.com/sicxu/Deep3DFaceRecon_pytorch)**
 
 ==============================================
 
@@ -49,9 +49,17 @@ https://github.com/snap-research/articulated-animation
 
 ![68747470733a2f2f7368756e73756b65736169746f2e6769746875622e696f2f5049467548442f7265736f75726365732f696d616765732f7069667568642e676966](README.assets/68747470733a2f2f7368756e73756b65736169746f2e6769746875622e696f2f5049467548442f7265736f75726365732f696d616765732f7069667568642e676966.gif)
 
+###  4.[FrankMocap：强大且易于使用的单视图 3D 手+身体姿势估计器](https://github.com/facebookresearch/frankmocap)
+
+### 5. [TEACH: Temporal Action Composition for 3D Humans](https://github.com/athn-nik/teach) 
+
+
+
 ### uv贴图代码
 
-https://github.com/js-duan/texture_map
+###  1. [Differentiable Stereopsis: Meshes from multiple views using differentiable rendering](https://github.com/shubham-goel/ds)
+
+### 2.[opengl 教材uv贴图](https://github.com/js-duan/texture_map)
 
 <img src="README.assets/weight-mean.png" alt="qingfeng" style="zoom:50%;" />
 
@@ -60,3 +68,4 @@ https://github.com/js-duan/texture_map
 https://blog.csdn.net/Kalenee/article/details/99207102
 
 ![image-20220927164908539](README.assets/image-20220927164908539.png)
+
